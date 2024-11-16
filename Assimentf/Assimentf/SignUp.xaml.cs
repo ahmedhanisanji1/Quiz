@@ -45,7 +45,7 @@ namespace Assimentf
 
             if (Passtxt.Text.Length < 8 )
             {
-                MessageBox.Show("Your password must have char more than 8 ");
+                MessageBox.Show("Your password must have char more than 8 !");
                 return;
             }
 
